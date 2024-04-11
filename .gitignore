@@ -8,42 +8,11 @@ bin
 .idea
 
 # idea
+.idea/
 out
 *.ipr
 *.iws
 *.iml
-
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
-
-# Files from Forge MDK
-forge*changelog.txt
-
-workspace.xml
-
-
-# gradle
-
-.gradle/
-build/
-out/
-classes/
-
-# eclipse
-
-*.launch
-
-# idea
-
-.idea/
-*.iml
-*.ipr
-*.iws
 
 # vscode
 
@@ -56,6 +25,16 @@ bin/
 # macos
 
 *.DS_Store
+
+# gradle
+.gradle
+build/
+out/
+classes/
+
+# other
+eclipse
+run
 
 # fabric
 
